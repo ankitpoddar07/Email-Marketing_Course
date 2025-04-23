@@ -1,4 +1,4 @@
-## 🔍 Overview
+## 🔍 Email Marketing Course
 This repository contains a complete self-paced Email Marketing Course, including:
 
 ---
