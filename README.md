@@ -12,3 +12,15 @@ This repository contains a complete self-paced Email Marketing Course, including
 * 📊 Presentations and print-ready documents
 
 * 📬 Practical email templates for real-world use
+
+# 💡 Perfect For:
+
+---
+
+* Digital marketers & business owners
+
+* Job seekers preparing for marketing roles
+
+* Students learning digital marketing fundamentals
+
+* Freelancers building an email marketing portfolio
